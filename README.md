@@ -1,1 +1,2 @@
 # onepieceinfo
+"One Piece" is a Japanese anime and manga series created by Eiichiro Oda. It is one of the longest-running and most beloved franchises in the world of anime, known for its adventurous storytelling, rich world-building, and memorable characters. The series follows the journey of Monkey D. Luffy, a young pirate with the dream of finding the legendary treasure called the "One Piece" and becoming the Pirate King. With its blend of action, humor, and emotional depth, One Piece has captivated fans for decades.
