@@ -3,6 +3,6 @@ Objective: Developed a visually appealing and user-friendly website to showcase 
 
 Technologies Used:
 <br>
-Front-End: HTML5, CSS3 (Flexbox, Grid), JavaScript
+Front-End: HTML5, CSS3, Animation, Responsive Design, JavaScript
 <br>
 Tools: Visual Studio Code, Git/GitHub
